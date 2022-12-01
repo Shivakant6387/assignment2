@@ -12,8 +12,6 @@ public class MainVehicle {
         twoVehicle1.licence();
         FourVehicle fourVehicle2=new FourVehicle();
         fourVehicle2.tyre();
-        //TwoVehicle twoVehicle2=()-> twoVehicle2.licence();
-        //""
-       // FourVehicle fourVehicle2=()->fourVehicle2.licence();
-    }
+
+            }
 }
